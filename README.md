@@ -1,7 +1,7 @@
 # NLW eSports - Rocketseat 🚀
 
 ![Landing](https://user-images.githubusercontent.com/104099580/191115590-8dad7c52-0d79-45a1-b102-57acc689927e.png)
-Project according to Rocketseat's NLW eSports, in which the aim is to create an application where users can find partners to play together.
+Project produced in agreement with Rocketseat NLW eSports, in which the objective is to create an application where users can find partners to play together.
 
 <p align="center">Credits by Rocketseat 🚀</p>
 
